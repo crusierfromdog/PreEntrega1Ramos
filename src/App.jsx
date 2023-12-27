@@ -10,7 +10,7 @@ const App = () => {
   return (
     <>  
       <NavBar/>   
-      <ItemListContainer greeting='Buenos días, buenas tarde'/>
+      <ItemListContainer greeting='Buenos días, buenas tardes'/>
 
     </>
   )
