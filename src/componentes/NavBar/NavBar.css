@@ -1,0 +1,33 @@
+body{
+    background-color: #242424;
+}
+
+header{
+    align-items: center;
+    justify-content: space-around;
+    color: blueviolet;
+    display: flex;
+    flex-direction: column;    
+}
+
+h1{
+    margin-left: 2.5%;
+    margin-bottom: 20%;
+    padding-bottom: 1%;
+    position: absolute;
+    left: 0;
+    top: 10%;
+}
+
+
+ul, ol {
+    position: absolute;
+    left: 2.5%;
+}
+
+li {
+    font-size: 20px;
+    display: flex;
+    margin-bottom: 23.6%;
+    cursor: pointer;
+}

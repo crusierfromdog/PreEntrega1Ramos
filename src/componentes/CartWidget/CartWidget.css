@@ -1,0 +1,20 @@
+
+.carro{
+    width: 8%;
+    position: absolute;
+    right: 10px;
+    bottom: 10px; 
+    cursor: pointer;
+    
+    
+}
+
+.cuenta{
+    margin-bottom: 1%;
+    position: absolute;
+    right: 10%;
+    bottom: 3%; 
+    color: aquamarine;
+    font-size: xx-large;
+    font-weight: 700;
+}
